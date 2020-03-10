@@ -1,6 +1,11 @@
 CN Project
 SSH - Client using Sockets
 
+By:
+SAMARTH S – PES1201701359
+CHANDAN M– PES1201701549
+SAMARTH SHETTY – PES1201701637
+
 The SSH protocol (also referred to as Secure Shell) is a method for secure remote login from one computer to another. It provides 
 several alternative options for strong authentication, and it protects the communications security and integrity with strong encryption.
 It is a secure alternative to the non-protected login protocols (such as telnet, rlogin) and insecure file transfer methods (such as FTP).
